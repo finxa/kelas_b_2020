@@ -1,0 +1,5 @@
+NAMA        :Muhammad Adliansyah 
+NIM         :5520120030
+KELAS       :IF B 2020
+ALAMAT      :CIANJUR
+FAKULTAS    :TEKNIK INFORMATIKA
